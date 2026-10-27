@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SeiYaaa71/pixelworld.git"
+    "url": "git+https://github.com/amex-32/pixelworld.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/SeiYaaa71/pixelworld/issues"
+    "url": "https://github.com/amex-32/pixelworld/issues"
   },
-  "homepage": "https://github.com/SeiYaaa71/pixelworld#readme",
+  "homepage": "https://github.com/amex-32/pixelworld#readme",
   "dependencies": {
     "express": "^5.2.1",
     "socket.io": "^4.8.3"
