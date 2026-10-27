@@ -179,7 +179,7 @@ io.on('connection', (socket) => {
   });
 });
  
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 server.listen(PORT, '0.0.0.0', () => {
   const hostIp = detectLocalIpAddress();
   console.log(`Accès local hôte : http://localhost:${PORT}`);
